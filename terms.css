@@ -1,0 +1,66 @@
+h1.bigger{
+    text-transform: uppercase;
+    text-shadow: 2px 2px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(254, 255, 254); 
+    background-color: black;
+}
+*Navbar Menu*/
+  .header{
+    text-align: center;
+    width: 50%;
+    height: 5px; 
+    padding-top: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2px;
+  }
+
+  .bg{
+    background-color: rgb(19, 51, 35);
+  }
+ 
+  #NavBarMenu ul li a {
+    color: rgb(25, 255, 5); 
+  }
+
+
+
+
+
+
+ 
+ p.big{
+     font-size: 20px;
+     text-align: justify;
+ }
+ .indent{
+     text-indent: 100px;
+ }
+ ul{
+     padding-left: 100px;
+     padding-right: 100px;
+     text-align: justify;
+ }
+ ol{
+     padding-left: 100px;
+     padding-right: 90px;
+     text-align: justify;
+ }
+ li.big{
+     font-size: 20px;
+     padding-right: 90px;
+     text-align: justify;
+ }
+ p{
+     padding-left: 20px;
+     font-size: 20px;
+     text-transform: uppercase;
+ }
+ 
+ h3{
+     color: rgb(7, 0, 0);
+     background-color: rgb(253, 253, 253);
+ }
